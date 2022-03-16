@@ -1,9 +1,4 @@
 
-console.log("Client side server is loaded!")
-
-
-
-
 const WeatherForm = document.querySelector('form')      //to select/get the 'form' tag from index.hbs
 const searchElement = document.querySelector('input')   //to get the input text from index.hbs
 const messageOne = document.querySelector('#message-1')
